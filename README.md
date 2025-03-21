@@ -10,6 +10,7 @@ Este repositório contém o código do projeto desenvolvido para a disciplina C2
 ## Dependências
 
 * Gson
+* JUnit
 
 ## Autores
 
